@@ -382,7 +382,8 @@ header {
 }
 
 .flip-card {
-  width: 500px;
+  max-width: 500px;
+  min-width: 250px;
   height: 300px;
   perspective: 1000px;
   margin: 40px auto;
