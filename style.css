@@ -593,6 +593,15 @@ footer {
   color: #f4a261;
   transform: scale(1.1);
 }
+.icon {
+  width: 32px;
+  height: 32px;
+  fill: #bbb;
+}
+.icon:hover {
+  fill: #f4a261;
+  transform: scale(1.1);
+}
 
 .footer-bottom {
   margin-top: 40px;
